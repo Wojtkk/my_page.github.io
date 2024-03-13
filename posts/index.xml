@@ -1,19 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://https://wojtkk.github.io/my_page.github.io//posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Mountains</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Mountains</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Jan 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="https://https://wojtkk.github.io/my_page.github.io//posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://https://wojtkk.github.io/my_page.github.io//posts/my-first-post/</link>
+      <title>Top 20 highest mountains</title>
+      <link>http://localhost:1313/posts/desc/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>https://https://wojtkk.github.io/my_page.github.io//posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+      <guid>http://localhost:1313/posts/desc/</guid>
+      <description>Introduction hello</description>
+    </item>
+    <item>
+      <title>Top 20 highest mountains</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction Link to Description</description>
     </item>
   </channel>
 </rss>
